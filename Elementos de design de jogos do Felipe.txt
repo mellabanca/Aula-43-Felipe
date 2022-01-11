@@ -1,0 +1,44 @@
+Elementos de design de jogos - Minecraft
+
+Personagens: 
+- A gente mesmo, ou outras pessoas (PC)
+- Villagers, zumbis, aranhas, monstros, golem, animais (NPC)
+
+Objetivo:
+- Principal: Matar o Ender Dragon
+- Muitos outros objetivos (construir sua casa, capturas todos os animais, etc)
+
+Regras:
+- Não morrer (inimigo, fome, afogado, queda, lava)
+- Matar os inimigos
+- Não olhar nos olhos do Enderman
+- Regras de fabricação de itens
+- [...]
+
+Equilíbrio:
+- Armaduras, espadas, encantamentos, gatos protegem do Creeper
+- Inimigos, Nether
+- Dificuldades do jogo
+
+Adptabilidade:
+- Vai ficando mais fácil à medida que a gente vai avançando
+- Ataques dos Pillagers
+
+Elementos do acaso:
+- O mundo do Minecraft
+
+Elementos de habilidade:
+- Equipamentos
+- Casa
+- Matando os inimigos rápido
+- Níveis do jogo
+
+Feedback:
+- Quantidade de pessoas que estão jogando (qualidade do jogo)
+- De acordo com a atualização (qualidade do jogo)
+- Nível
+- Quantidade/variedade de itens que temos
+
+História:
+- ???
+- Matar o Ender Dragon
