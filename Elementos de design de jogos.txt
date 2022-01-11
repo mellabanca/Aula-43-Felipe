@@ -1,0 +1,44 @@
+Elementos de design de jogos
+
+Personagens: 
+- 4 Fantasmas - NPC
+- Pacman - PC
+PC (Playing Character) - personagem jogador
+NPC (Non-Playing Character) - personagem não-jogador
+
+Objetivo:
+- Pegar todos os pontinhos
+
+Regras:
+- Pacman tem duas vidas
+- Pacman pode comer todos os pontos no labirinto
+- Os fantasmas podem comer o Pacman e ficam vagando pelo labirinto
+- Quando o Pacman é comido pelos fantasmas, ele perde uma vida
+- Existem 5 poderes que quando o Pacman come, ele pode comer os fantasmas
+- Quando o fantasma é comido pelo Pacman, ele tem que voltar para o seu
+  lugar de origem para "ressuscitar"
+- O jogo é ganho quando o Pacman come todas as bolinha
+- O jogo é perdido quando o Pacman perde todas as suas vidas
+
+Equilíbrio:
+- 5 poderes para deixar o jogo um pouco mais fácil
+- 4 fantasmas para deixar o jogo um pouco mais difícil
+
+Adptabilidade:
+- Fica mais difícil comer os pontos enquanto o jogo vai avançando, pois
+  os pontos vão ficando mais espalhados
+
+Elementos do acaso:
+- Movimentos dos fantasma
+
+Elementos de habilidade:
+- O jogador tem que manobrar rapidamente o Pacman para conseguir fugir
+  dos fantasmas e comer todos os pontos
+
+Feedback:
+- O número de bolinhas vai diminuindo de acordo com o que o Pacman vai comendo
+- O sistema de pontuação do jogo
+- O sistema de vidas do jogo
+
+História:
+- ???
